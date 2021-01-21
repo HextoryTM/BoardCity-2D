@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/bg.jpg</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/botao.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/botaoGirar.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/botaoMais.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/botaoMenos.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/botaoX.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/configNovoJogo.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/dado1.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/dado2.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/dado3.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/dado4.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/dado5.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/dado6.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/fonte.spritefont</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/fonte1.spritefont</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/foto.jpg</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/imgBG.jpg</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/imgBG1.jpg</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/imgBotaoAjuda.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/imgBotaoAjuda1.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/imgCasa.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/imgCela.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/imgDinheiro.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/imgPropaganda.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/overlapPreco.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/paginaAjuda1.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/paginaAjuda2.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/paginaAjuda3.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/paginaAjuda4.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/paginaAjuda5.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/paginaAjuda6.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/paginaAjuda7.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/paginaAjuda8.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/paginaAjuda9.png</File>
+    <File>J:/Faculdade/LPG/LPG03/Exercício 26_05_19/BoardCity2D/BoardCity2D/Content/Peao.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
